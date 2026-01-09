@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay1213143&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 I’m currently learning **Html,CSS,JS,React JS,Expert JS,MongoDB**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **Html,CSS,C,C++,Java(Core & Advanced),Maven,JDBC,Hibernate,Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices**
 
