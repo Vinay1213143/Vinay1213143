@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html,CSS,JS,React JS,Expert JS,MongoDB**
 
-- 💬 Ask me about **Html,C,CPP**
+- 💬 Ask me about **Html,CSS,C,C++,Java(Core & Advanced),Maven,JDBC,Hibernate,Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices**
 
 - 📫 How to reach me **vinayawari10@gmail.com**
 
