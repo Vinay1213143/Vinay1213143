@@ -1,8 +1,3 @@
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinay1213143/Vinay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
 
 <h3 align="center">
@@ -17,6 +12,13 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 <img src="https://komarev.com/ghpvc/?username=Vinay1213143&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinay1213143/Vinay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 # 👨‍💻 About Me
