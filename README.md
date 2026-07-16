@@ -1,4 +1,4 @@
-![logo](C:\Users\Lenovo\Downloads\html-css-collage-concept.jpg)
+
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
 <h3 align="center">A passionate Java Spring Boot Developer from India</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuB7nK-6jvlk8hWT6IW46gGEq_WqQtKI4tQ&s">
