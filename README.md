@@ -118,7 +118,7 @@ A Full Stack Job & Salary Analysis Platform that helps users search jobs, compar
 
 # 💡 Quote
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
