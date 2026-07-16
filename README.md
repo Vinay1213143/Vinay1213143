@@ -1,32 +1,152 @@
-
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
-<h3 align="center">A passionate Java Spring Boot Developer from India</h3>
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuB7nK-6jvlk8hWT6IW46gGEq_WqQtKI4tQ&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay1213143&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<h3 align="center">
+🚀 Computer Science Engineering Graduate | Full Stack Developer | Java & Spring Boot Developer
+</h3>
 
-- 🌱 I’m currently learning **Generative AI with Python**
-
-- 💬 Ask me about **Html,CSS,C,C++,Python,Java(Core & Advanced),Maven,JDBC,Hibernate,Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices**
-
-- 📫 How to reach me **vinayawari10@gmail.com**
-
-- ⚡ Fun fact **I am Funny 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinay awari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay awari" height="30" width="40" /></a>
-<a href="https://fb.com/vinay awari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinay awari" height="30" width="40" /></a>
-<a href="https://instagram.com/awarivinay_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awarivinay_45" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable web applications using Java, Spring Boot, Flutter, and modern backend technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vinay1213143&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay1213143&show_icons=true&locale=en&layout=compact"  /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay1213143&show_icons=true&locale=en"  /></p>
+# 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1213143&"  /></p>
+🎓 Computer Science Engineering Graduate
 
+💻 Passionate Full Stack Developer
 
+☕ Java | Spring Boot | REST APIs | Flutter
+
+🌱 Currently Learning
+
+- Spring AI
+- Generative AI
+- Microservices
+- Docker
+- Cloud Technologies
+
+🎯 Looking for opportunities as
+
+- Java Developer
+- Spring Boot Developer
+- Backend Developer
+- Full Stack Developer
+
+📧 **Email:** vinayawari10@gmail.com
+
+---
+
+# 🚀 Featured Project
+
+## 💼 Salariann – IT Job & Salary Platform
+
+A Full Stack Job & Salary Analysis Platform that helps users search jobs, compare salaries, explore company reviews, interview experiences, and cost-of-living insights.
+
+### ✨ Features
+
+✅ User Authentication
+
+✅ Job Search
+
+✅ Salary Analysis
+
+✅ Company Reviews
+
+✅ Interview Experiences
+
+✅ Cost of Living Calculator
+
+✅ Responsive Flutter UI
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,flutter,dart,mysql,postgresql,supabase,git,github,docker,maven,postman,vscode,idea,python,html,css,javascript"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/vinay-awari-6795792a4">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/Vinay1213143">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:vinayawari10@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinay1213143&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay1213143&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vinay1213143&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay1213143&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay1213143&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+# 🎯 Career Objective
+
+Dedicated Computer Science Engineering graduate with hands-on experience in Java, Spring Boot, Flutter, Node.js, REST APIs, PostgreSQL, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
