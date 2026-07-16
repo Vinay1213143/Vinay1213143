@@ -1,13 +1,13 @@
 ![logo](C:\Users\Lenovo\Downloads\html-css-collage-concept.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
-<h3 align="center">A passionate Frontend and Backend developer from India</h3>
+<h3 align="center">A passionate Java Spring Boot Developer from India</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuB7nK-6jvlk8hWT6IW46gGEq_WqQtKI4tQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay1213143&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I’m currently learning **Spring Security**
 
-- 💬 Ask me about **Html,CSS,C,C++,Java(Core & Advanced),Maven,JDBC,Hibernate,Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices**
+- 💬 Ask me about **Html,CSS,C,C++,Python,Java(Core & Advanced),Maven,JDBC,Hibernate,Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices**
 
 - 📫 How to reach me **vinayawari10@gmail.com**
 
