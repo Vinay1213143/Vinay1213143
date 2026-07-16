@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications using Java, Spring Boot, Flutter, and modern backend technologies.
+Passionate about building scalable web applications using Java, Spring Boot, and modern backend technologies.
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@ Passionate about building scalable web applications using Java, Spring Boot, Flu
 
 💻 Passionate Full Stack Developer
 
-☕ Java | Spring Boot | REST APIs | Flutter
+☕ Java | Spring Boot | REST APIs | 
 
 🌱 Currently Learning
 
-- Spring AI
+- Python
 - Generative AI
-- Microservices
-- Docker
-- Cloud Technologies
+- PowerBI
+- Machine Learning
+- SQL
 
 🎯 Looking for opportunities as
 
@@ -145,7 +145,7 @@ A Full Stack Job & Salary Analysis Platform that helps users search jobs, compar
 
 # 🎯 Career Objective
 
-Dedicated Computer Science Engineering graduate with hands-on experience in Java, Spring Boot, Flutter, Node.js, REST APIs, PostgreSQL, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
+Dedicated Computer Science Engineering graduate with hands-on experience in Java, Spring Boot, REST APIs, PostgreSQL, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
 
 ---
 
