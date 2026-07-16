@@ -47,21 +47,17 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 
 A Full Stack Job & Salary Analysis Platform that helps users search jobs, compare salaries, explore company reviews, interview experiences, and cost-of-living insights.
 
-### ✨ Features
+### ✨ Key Features
 
-✅ User Authentication
+- 🔐 Secure User Authentication
+- 💼 IT Job Search Platform
+- 📊 Salary Analysis Dashboard
+- 🏢 Company Reviews
+- 💰 Cost of Living Calculator
+- 🎯 Interview Experiences
+- 📱 Responsive Flutter UI
+- 🔔 Notifications & Messaging
 
-✅ Job Search
-
-✅ Salary Analysis
-
-✅ Company Reviews
-
-✅ Interview Experiences
-
-✅ Cost of Living Calculator
-
-✅ Responsive Flutter UI
 
 ---
 
@@ -105,7 +101,7 @@ A Full Stack Job & Salary Analysis Platform that helps users search jobs, compar
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinay1213143&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;Backend+Developer" />
 </p>
 
 ---
