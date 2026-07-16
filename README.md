@@ -94,35 +94,18 @@ A Full Stack Job & Salary Analysis Platform that helps users search jobs, compar
 </p>
 
 ---
-
-# 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinay1213143&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay1213143&layout=compact&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=Vinay1213143&theme=github-dark-blue"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinay1213143&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinay1213143&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay1213143&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
