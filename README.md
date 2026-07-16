@@ -1,3 +1,8 @@
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinay1213143/Vinay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
 
 <h3 align="center">
