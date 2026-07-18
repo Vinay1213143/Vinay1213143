@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Awari</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineering Graduate | Full Stack Developer | Java & Spring Boot Developer
+🚀 Computer Engineering Graduate | Full Stack Developer | Java & Spring Boot Developer
 </h3>
 
 <p align="center">
