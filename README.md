@@ -27,7 +27,7 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 
 💻 Passionate Full Stack Developer
 
-☕ Java | Spring Boot | REST APIs | 
+☕ Java | Spring Boot | REST APIs | Postman | PostgreSql 
 
 🌱 Currently Learning
 
