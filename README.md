@@ -25,7 +25,7 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 
 🎓 Computer Science Engineering Graduate
 
-💻 Passionate Full Stack Developer
+💻 Java Spring Boot Developer
 
 ☕ Java | Spring Boot | REST APIs | Postman | PostgreSql 
 
@@ -48,7 +48,7 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured/Academic Project
 
 ## 💼 Salariann – IT Job & Salary Platform
 
