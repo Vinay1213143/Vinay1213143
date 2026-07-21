@@ -23,7 +23,7 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
+🎓 Computer Engineering Graduate
 
 💻 Java Spring Boot Developer
 
