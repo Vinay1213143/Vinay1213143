@@ -32,10 +32,10 @@ Passionate about building scalable web applications using Java, Spring Boot, and
 🌱 Currently Learning
 
 - Python
-- Generative AI
-- PowerBI
-- Machine Learning
 - SQL
+- PowerBI
+- Data Science and Machine Learning
+- Generative AI
 
 🎯 Looking for opportunities as
 
